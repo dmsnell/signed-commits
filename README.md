@@ -2,5 +2,6 @@
 
 | PR merge strategy | Can we fast-forward? | Was merge signed by me? |
 |-------------------|----------------------|-------------------------|
-| Merge-commit      | ✅                   |                         |
+| Merge-commit      | ✅                   | 🚫                      |
+| Force-merge       | ✅                   |                         |
 
