@@ -11,3 +11,6 @@ Does it matter if GitHub has "prevent bypassing these rules" on the branch
 protection? I was able to merge and push to `trunk` with a fast-forward
 merge commit.
 
+## Notes
+
+Squash merge is `git merge --squash`
