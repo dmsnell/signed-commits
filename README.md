@@ -14,9 +14,17 @@ merge commit.
 
 ## Notes
 
+### Squash Merge
+
 Squash merge is `git merge --squash` and prepares the working copy
 with the results of what the merge would produce. I could not push
 my squashed commit to `trunk` due to branch protection rules.
 
 GH Squash merge is an attempt to inspect what GitHub does when it
 creates a squash-and-merge commit.
+
+### Rebase Merge
+
+With the rebase merge we'll try and merge a single commit from an
+approved branch that's behind the origin's `trunk`. We'll try a
+few different approaches to push upstream.
