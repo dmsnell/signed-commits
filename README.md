@@ -28,3 +28,10 @@ creates a squash-and-merge commit.
 With the rebase merge we'll try and merge a single commit from an
 approved branch that's behind the origin's `trunk`. We'll try a
 few different approaches to push upstream.
+
+ - `git rebase trunk && git checkout trunk && git merge branch && git push` fails
+ - `git cherry-pick branch-HEAD && git push` fails
+
+With merge-commits this isn't completely problematic, but if one
+of the branch protection rules is to require a linear history
+then it's not possible.
