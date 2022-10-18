@@ -35,3 +35,7 @@ few different approaches to push upstream.
 With merge-commits this isn't completely problematic, but if one
 of the branch protection rules is to require a linear history
 then it's not possible.
+
+---
+
+Looking also at merge commits vs. HEAD commits vs. merged commits.
