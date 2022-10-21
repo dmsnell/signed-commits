@@ -39,3 +39,7 @@ then it's not possible.
 ---
 
 Looking also at merge commits vs. HEAD commits vs. merged commits.
+
+---
+
+Also need to examine commits from inside Github's editor.
