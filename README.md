@@ -38,7 +38,7 @@ then it's not possible.
 
 ---
 
-Looking also at merge commits vs. HEAD commits vs. merged commits.
+Looking also at merge commits vs. `HEAD` commits vs. merged commits.
 
 ---
 
