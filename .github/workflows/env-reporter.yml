@@ -1,0 +1,16 @@
+name: ENV reporter
+
+on:
+  pull_request:
+
+
+jobs:
+  env_reporter:
+    name: Report ENV values
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Report ENV values
+        run: |
+          export
+
