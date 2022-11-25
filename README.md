@@ -40,3 +40,7 @@ then it's not possible.
 
 Also need to examine commits from inside Github's editor.
 Also the built-in VSCode editor…
+
+---
+
+This commit wasn't signed at all!
